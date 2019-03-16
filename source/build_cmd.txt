@@ -1,0 +1,1 @@
+pyinstaller projet.py --name CamPaint  --icon icons\tools.ico  --onefile  --windowed  --add-data icons;icons
