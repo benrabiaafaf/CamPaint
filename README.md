@@ -1,6 +1,8 @@
 # CamPaint
 CamPaint est une application de dessin avec webcam.
+
 ![screenshopt](images/Capture.PNG)
+
 ## Principe
 L'utilisateur utilise deux couleurs distinctes, l’application doit détecter et mémoriser les couleurs choisies.
 L'application localise les couleurs sur le flux vidéo et calcule la distance entre eux, le dessin est permis lorsque les deux couleurs sont suffisamment proches.
